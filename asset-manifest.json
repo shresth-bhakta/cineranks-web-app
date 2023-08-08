@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/%7Bcineranks-web-app%7D/static/css/main.2435e119.css",
+    "main.js": "/%7Bcineranks-web-app%7D/static/js/main.0d5c1848.js",
+    "index.html": "/%7Bcineranks-web-app%7D/index.html",
+    "main.2435e119.css.map": "/%7Bcineranks-web-app%7D/static/css/main.2435e119.css.map",
+    "main.0d5c1848.js.map": "/%7Bcineranks-web-app%7D/static/js/main.0d5c1848.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2435e119.css",
+    "static/js/main.0d5c1848.js"
+  ]
+}
