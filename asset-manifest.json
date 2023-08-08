@@ -1,13 +1,15 @@
 {
   "files": {
     "main.css": "/%7Bcineranks-web-app%7D/static/css/main.2435e119.css",
-    "main.js": "/%7Bcineranks-web-app%7D/static/js/main.0d5c1848.js",
+    "main.js": "/%7Bcineranks-web-app%7D/static/js/main.e9ece2b9.js",
+    "static/media/movie-icon.png": "/%7Bcineranks-web-app%7D/static/media/movie-icon.c523e283dbd9f1f33a32.png",
+    "static/media/search-icon.png": "/%7Bcineranks-web-app%7D/static/media/search-icon.3a608aca6f4d314714c4.png",
     "index.html": "/%7Bcineranks-web-app%7D/index.html",
     "main.2435e119.css.map": "/%7Bcineranks-web-app%7D/static/css/main.2435e119.css.map",
-    "main.0d5c1848.js.map": "/%7Bcineranks-web-app%7D/static/js/main.0d5c1848.js.map"
+    "main.e9ece2b9.js.map": "/%7Bcineranks-web-app%7D/static/js/main.e9ece2b9.js.map"
   },
   "entrypoints": [
     "static/css/main.2435e119.css",
-    "static/js/main.0d5c1848.js"
+    "static/js/main.e9ece2b9.js"
   ]
 }
