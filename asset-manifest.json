@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/%7Bcineranks-web-app%7D/static/css/main.2435e119.css",
-    "main.js": "/%7Bcineranks-web-app%7D/static/js/main.f4d6dc2b.js",
-    "static/media/movie-icon.png": "/%7Bcineranks-web-app%7D/static/media/movie-icon.c523e283dbd9f1f33a32.png",
-    "static/media/search-icon.png": "/%7Bcineranks-web-app%7D/static/media/search-icon.3a608aca6f4d314714c4.png",
-    "index.html": "/%7Bcineranks-web-app%7D/index.html",
-    "main.2435e119.css.map": "/%7Bcineranks-web-app%7D/static/css/main.2435e119.css.map",
-    "main.f4d6dc2b.js.map": "/%7Bcineranks-web-app%7D/static/js/main.f4d6dc2b.js.map"
+    "main.css": "/cineranks-web-app/static/css/main.2435e119.css",
+    "main.js": "/cineranks-web-app/static/js/main.81d72657.js",
+    "static/media/movie-icon.png": "/cineranks-web-app/static/media/movie-icon.c523e283dbd9f1f33a32.png",
+    "static/media/search-icon.png": "/cineranks-web-app/static/media/search-icon.3a608aca6f4d314714c4.png",
+    "index.html": "/cineranks-web-app/index.html",
+    "main.2435e119.css.map": "/cineranks-web-app/static/css/main.2435e119.css.map",
+    "main.81d72657.js.map": "/cineranks-web-app/static/js/main.81d72657.js.map"
   },
   "entrypoints": [
     "static/css/main.2435e119.css",
-    "static/js/main.f4d6dc2b.js"
+    "static/js/main.81d72657.js"
   ]
 }
